@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Note App</string>
+    <string name="logo">Logo</string>
+    <string name="face_recognition">Face Recognition</string>
+    <string name="fingerprint">Fingerprint</string>
+    <string name="or">or</string>
+    <string name="welcome_to_notes_app">Welcome To NOTES App</string>
+    <string name="biometrics_text">Use biometric login with your fingerprint or face for faster and easier access to your account. Or, you can use a passcode to sign in.</string>
+    <string name="use_passcode">Use Passcode</string>
+</resources>
