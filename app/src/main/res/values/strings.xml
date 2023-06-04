@@ -10,4 +10,13 @@
     <string name="sign_in_with_your_fingerprint">Sign In With Your Fingerprint</string>
     <string name="fingerprint_text">Scan Your fingerprint on your phone\'s Fingerprint Scanner</string>
     <string name="sign_in">Sign In</string>
+    <string name="scan_your_face_using_your_phone_s_camera">Scan your face using your phone\'s camera</string>
+    <string name="sign_in_with_your_face_id">Sign In with your Face Id</string>
+    <string name="back">Back</string>
+    <string name="welcome">Welcome!</string>
+    <string name="fill_your_credentials_to_sign_in">Fill your credentials to Sign In</string>
+    <string name="email_or_username">Email or Username</string>
+    <string name="password">Password</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="register">Register</string>
 </resources>
