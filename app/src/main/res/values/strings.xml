@@ -31,4 +31,8 @@
     <string name="favourites">Favourites</string>
     <string name="note">Note</string>
     <string name="_09_41">09:41</string>
+    <string name="notes">Notes</string>
+    <string name="settings">Settings</string>
+    <string name="not_categorized">Not Categorized</string>
+    <string name="title">Title</string>
 </resources>
